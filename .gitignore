@@ -174,8 +174,8 @@ poetry.toml
 pyrightconfig.json
 
 #AIRFLOW
-*/airflow-webserver.pid*
-*/airflow.cfg*
-*/airflow.db*
-*/standalone_admin_password.txt*
+*airflow-webserver.pid*
+*airflow.cfg*
+*airflow.db*
+*standalone_admin_password.txt*
 # End of https://www.toptal.com/developers/gitignore/api/python
