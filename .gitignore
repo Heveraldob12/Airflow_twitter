@@ -173,9 +173,31 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
-#AIRFLOW
-./airflow-webserver.pid
-./airflow.cfg
-./airflow.db
-./standalone_admin_password.txt
+# Airflow configuration
+airflow.cfg
+unittests.cfg
+airflow_login.py
+dbinit.py
+initdb.py
+secrets.py
+datalake
+datalake/*
+src/spark/tweet/*
+src/spark/user/*
+spark-3.3.2-bin-hadoop3/*
+src/notebooks/notebook_output/*
+# Airflow sqlite databases
+airflow.db
+unittests.db
+
+# Airflow temporary artifacts
+airflow/git_version
+airflow/www/static/coverage/
+airflow/www/*.log
+/logs/
+airflow-webserver.pid
+standalone_admin_password.txt
+warnings.txt
+spark-3.3.2-bin-hadoop3.tgz
+
 # End of https://www.toptal.com/developers/gitignore/api/python
