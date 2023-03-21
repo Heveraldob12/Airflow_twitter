@@ -19,6 +19,8 @@ Descrição:
 Utilização da API do Twitter para carregar dados e fazer um pipeline com os posts relacionados com a query que eu estabeleci, foi uma extração bem curta,por causa
 da limitação do nivel gratuito da conta de desenvolverdo do Twitter.
 
+---
+
 Using the Twitter API to load data and make a pipeline with the posts related to a query that I established,it was a pretty short extraction, because of the
 developer's Twitter account free tier limitation.
 
