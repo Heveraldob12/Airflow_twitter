@@ -13,7 +13,7 @@ Descrição:
 <p align="left"> <img src="https://github.com/Heveraldob12/Airflow_twitter/blob/main/Fotos/Screenshot%20from%202023-03-09%2018-46-15.png" alt="heveraldob12"   /> </p>
 
 
-## Detalhes do projeto/Project's details
+## Detalhes do projeto/Project's details👨🏾‍💻
 
 
 Utilização da API do Twitter para carregar dados e fazer um pipeline com os posts relacionados com a query que eu estabeleci, foi uma extração bem curta,por causa
